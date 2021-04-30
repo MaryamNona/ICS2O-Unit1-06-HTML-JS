@@ -1,0 +1,18 @@
+/* Created by: Maryam Nona
+ * Created on: April 2020
+ *This CSS file defines the style for index2.html ICS2O-Unit1-06-HTML-CSS
+*/
+
+body {
+  background-color: darkseagreen
+}
+
+p {
+  background-color: lightblue;
+  color: darkblue
+}
+
+h1 {
+  background-color: darksalmon;
+  color: floralwhite
+}
